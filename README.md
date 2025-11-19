@@ -4,12 +4,12 @@
 
 ---
 
-## 🔗 Demo (live)
+## 🌐 Live Demo
 https://semchaai.github.io/future-tech/
 
 ---
 
-## 🎨 Design (Figma)
+## 🎨 Figma Design
 https://www.figma.com/design/lT6ZqwxvMc5NwHJemrh0jx/FutureTech?m=auto&t=BCccSyh0WHdszf73-6
 
 ---
